@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local configuration / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
