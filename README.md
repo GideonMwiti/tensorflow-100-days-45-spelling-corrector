@@ -65,3 +65,12 @@ Run the pipeline:
 ```powershell
 python main.py
 ```
+
+---
+
+## Results
+
+Upon execution, the script runs the spelling corrector model and outputs the following dashboard:
+
+![Spelling Correction Results](spelling_corrector_results.png)
+
